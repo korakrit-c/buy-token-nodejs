@@ -1,0 +1,23 @@
+{
+  "name": "buy-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korakrit-c/buy-token-nodejs.git"
+  },
+  "author": "korakrit-c",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korakrit-c/buy-token-nodejs/issues"
+  },
+  "homepage": "https://github.com/korakrit-c/buy-token-nodejs#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "ethers": "^5.5.2"
+  }
+}
